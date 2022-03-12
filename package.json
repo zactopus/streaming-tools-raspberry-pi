@@ -9,7 +9,7 @@
     "lastfm": "0.9.3",
     "node-fetch": "3.2.3",
     "p-queue": "6.6.2",
-    "serialport": "9.2.8",
+    "serialport": "10.4.0",
     "thermalprinter": "0.3.10",
     "uuid": "8.3.2"
   },
